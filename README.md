@@ -13,7 +13,7 @@
 ## Coding Youtuber
 
 ## 미분류
-* [Alexy Naumov](https://nalexn.github.io/) - Swift를 다룰 때 알면 좋은 블로그
+* [Alexy Naumov](https://nalexn.github.io/) - Swift 다룰 때 알면 좋은 블로그
     + [Clean Architecture for SwiftUI](https://nalexn.github.io/clean-architecture-swiftui/)
       + [Clean Architecture for SwiftUI_Korean](https://gon125.github.io/posts/SwiftUI%EB%A5%BC-%EC%9C%84%ED%95%9C-%ED%81%B4%EB%A6%B0-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98/)
     + [etc](https://nalexn.github.io/)
