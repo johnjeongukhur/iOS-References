@@ -7,6 +7,7 @@
 
 ### 🍏 Apple 
 * [Swift Community](https://swift.org/) - 애플 Document 홈페이지   
+* [iOS Dev Roadmap](https://github.com/BohdanOrlov/iOS-Developer-Roadmap) - iOS Dev의 Roadmap, 연차별 해야할 To-do List, Junior, Middle, Senior 직급에서의 역량들에 대해 묘사해 놓음
 * [NSHipster](https://nshipster.com/) - Obj-C, Swift, and Cocoa 등 여러 글을 모아 놓은 블로그   
 * [iOS Developer Directory](https://iosdevdirectory.com/#en) - iOS 개발자들의 블로그 리스트와 여러 사이트를 모아둔 Directory, 영어, 한국어 고를 수 있음
     + [iOS Developer Directory_한글 버전](https://iosdevdirectory.com/#ko)
@@ -20,6 +21,7 @@
 * [Swift Lee_Blog](https://www.avanderlee.com/) - Swift 관련 여러 주제를 블로그에 작성중, Swift, SwiftUI, Combine, Core Data, etc.
 * [Ramotion_Github](https://github.com/Ramotion) - UI Engineering으로 유용한 UI Open Source들을 공개해 놓음
     + [Ramotion팀의 Swift UI Animation Libraries](https://github.com/Ramotion/swift-ui-animation-components-and-libraries)
+* [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club) - Swift Algorithm을 익히기 좋은 깃헙
 
 ***
 
