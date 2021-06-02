@@ -8,6 +8,7 @@
 ***
 
 ### 🍏 Apple 
+* [WWDC students code challenge](https://github.com/wwdc) - 매년 개최 하는 WWDC의 특별한 세션으로 학생들이 도전했던 코드 챌린지를 엿볼수 있음, Source code + Youtube
 * [Swift Community](https://swift.org/) - 애플 Document 홈페이지   
 * [iOS Dev Roadmap](https://github.com/BohdanOrlov/iOS-Developer-Roadmap) - iOS Dev의 Roadmap, 연차별 해야할 To-do List, Junior, Middle, Senior 직급에서의 역량들에 대해 묘사해 놓음
 * [NSHipster](https://nshipster.com/) - Obj-C, Swift, and Cocoa 등 여러 글을 모아 놓은 블로그   
