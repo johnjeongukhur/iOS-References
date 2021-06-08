@@ -59,8 +59,10 @@
 
 ***
 
-### 🚦 Git
+### 🚦 Git / 기술 블로그
 * [Git WorkFlow_우아한형제들_기술블로그](https://woowabros.github.io/experience/2017/10/30/baemin-mobile-git-branch-strategy.html) - 우아한 형제들의 Branch 관리 방법에 대해 배울 수 있음   
+* [LINE 기술 블로그](https://engineering.linecorp.com/ko/) - LINE 개발 기술 블로그
+    + [LINE iOS](https://engineering.linecorp.com/ko/blog/tag/ios-ko/) - LINE의 iOS 블로그
 
 ***
 
