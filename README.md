@@ -1,6 +1,7 @@
 # 📚References
 
 ### 🖥 CS 
+* [스스로 CS 가르치기](https://github.com/minnsane/TeachYourselfCS-KR/blob/main/README.md?fbclid=IwAR2moeei8Mo5nB3z692FhzULJX_l6zQrJKoGnJegiCfAkOt8is2zapK2C8o) - 번역본: CS 과목을 스스로 학습할 수 있도록 설계된 커리큘럼, [원문](https://teachyourselfcs.com/)
 * [Crash Course_Computer Science Course](https://www.youtube.com/watch?v=tpIctyqH29Q) - '개발하는 정대리'님의 컴퓨터 기초 공부 추천 유튜브   
 * [Teck Refrigerator](https://github.com/GimunLee/tech-refrigerator) - 개발자에게 필요한 기술 냉장고, ex) Java, algorithms, Design Pattern, Database, Network, OS etc.
 * [개발자 회고 모음](https://github.com/oaksong/developers-retrospective) - 여러 개발자들의 회고록을 목록화 해놓은 모음집
