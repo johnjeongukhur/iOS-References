@@ -26,6 +26,7 @@
 ***
 
 ### 🦅 Swift
+* [공식문서만으로 iOS 개발 배우기](https://sungdoo.dev/programming/start-ios-development-with-offical-docs/) - 공식문서로만 Swift 배우기, Dev Story of Sungdoo
 * [Alexy Naumov](https://nalexn.github.io/) - Swift 다룰 때 알면 좋은 블로그
     + [Clean Architecture for SwiftUI](https://nalexn.github.io/clean-architecture-swiftui/)
       + [Clean Architecture for SwiftUI_Korean](https://gon125.github.io/posts/SwiftUI%EB%A5%BC-%EC%9C%84%ED%95%9C-%ED%81%B4%EB%A6%B0-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98/)
