@@ -68,6 +68,7 @@
 * [LINE 기술 블로그](https://engineering.linecorp.com/ko/) - LINE 개발 기술 블로그
     + [LINE iOS](https://engineering.linecorp.com/ko/blog/tag/ios-ko/) - LINE의 iOS 블로그
 * [📍Learning Git](https://learngitbranching.js.org/?locale=ko) - Git 배우기 가장 좋은 사이트
+* [YongWoo Jeon님의 코드 리뷰](https://www.youtube.com/user/huhuyong/videos) - **코드 리뷰 방식**을 영상으로 제작하여 알기 쉽도록 도움줌
 
 ***
 
