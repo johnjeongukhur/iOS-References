@@ -47,6 +47,7 @@
 
 ### UIKit
 * [100Days of Swift, Paul Hudson](https://www.hackingwithswift.com/100) - UIKit 프레임워크를 기반으로 가볍게 진행하고 싶을 때 참고 해 보기
+* [스위프트 30 프로젝트 도전](https://github.com/soapyigu/Swift-30-Projects) - 스위프트 프로젝트 30개 정도를 나열
 
 ***
 
