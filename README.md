@@ -34,6 +34,7 @@
 * [Ramotion_Github](https://github.com/Ramotion) - UI Engineering으로 유용한 UI Open Source들을 공개해 놓음
     + [Ramotion팀의 Swift UI Animation Libraries](https://github.com/Ramotion/swift-ui-animation-components-and-libraries)
 * [Alex Paul](https://github.com/alexpaul) - iOS 개발자에게 필요한 [인터뷰](https://github.com/alexpaul/iOS-Interview-Preparation), [DSAs](https://github.com/alexpaul/Data-Structures-and-Algorithms), [CRUD(Create, Read, Update, and Delete)](https://github.com/alexpaul/DataPersistence), etc   
+* [KevinKim's Blog](https://velog.io/@kevinkim2586) - 스위프트 블로그 중 굉장히 좋음, [API 통신, JSON Parsing 을 이용한 간단 날씨 앱 구현](https://velog.io/@kevinkim2586/iOS-Swift-%EA%B3%B5%EB%B6%80-MVC-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4-API-%ED%86%B5%EC%8B%A0-JSON-Parsing-%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EA%B0%84%EB%8B%A8-%EB%82%A0%EC%94%A8-%EC%95%B1-%EA%B5%AC%ED%98%84), [MVC 패턴](https://velog.io/@kevinkim2586/iOS-Swift-%EA%B3%B5%EB%B6%80-MVC-Design-Pattern)
  
 
 ***
