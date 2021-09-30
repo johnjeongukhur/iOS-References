@@ -8,6 +8,11 @@
 
 ***
 
+### 📡 Network
+[Inflearn 모든 개발자를 위한 HTTP 웹 기본 지식](https://www.inflearn.com/course/http-%EC%9B%B9-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC#curriculum) - 네트워크에 대한 기본 지식, API
+
+***
+
 ### 🍏 Apple 
 * [WWDC students code challenge](https://github.com/wwdc) - 매년 개최 하는 WWDC의 특별한 세션으로 학생들이 도전했던 코드 챌린지를 엿볼수 있음, Source code + Youtube
 * [Swift Community](https://swift.org/) - 애플 Document 홈페이지   
