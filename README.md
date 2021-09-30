@@ -9,10 +9,22 @@
 ***
 
 ### 📡 Network
-[Inflearn 모든 개발자를 위한 HTTP 웹 기본 지식](https://www.inflearn.com/course/http-%EC%9B%B9-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC#curriculum) - 네트워크에 대한 기본 지식, API
-[가볍게, REST API란 뭔가요?, 얄팍한 코딩사전 유튜브](https://www.youtube.com/watch?v=iOueE9AXDQQ) - 가볍게 보기 좋은 REST API란 무엇일까?
-[심화, 그런 REST API로 괜찮은가, 네이버 d2](https://tv.naver.com/v/2292653) - 어려움, 좀 더 심화된 내용의 REST API 여러번 보기 추천!
+* [Inflearn 모든 개발자를 위한 HTTP 웹 기본 지식](https://www.inflearn.com/course/http-%EC%9B%B9-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC#curriculum) - 네트워크에 대한 기본 지식, API   
+* [가볍게, REST API란 뭔가요?, 얄팍한 코딩사전 유튜브](https://www.youtube.com/watch?v=iOueE9AXDQQ) - 가볍게 보기 좋은 REST API란 무엇일까?   
+* [심화, 그런 REST API로 괜찮은가, 네이버 d2](https://tv.naver.com/v/2292653) - 어려움, 좀 더 심화된 내용의 REST API 여러번 보기 추천!   
+
+
 ***
+
+### 🚦 Git / 기술 블로그
+* [Git WorkFlow_우아한형제들_기술블로그](https://woowabros.github.io/experience/2017/10/30/baemin-mobile-git-branch-strategy.html) - 우아한 형제들의 Branch 관리 방법에 대해 배울 수 있음   
+* [LINE 기술 블로그](https://engineering.linecorp.com/ko/) - LINE 개발 기술 블로그
+    + [LINE iOS](https://engineering.linecorp.com/ko/blog/tag/ios-ko/) - LINE의 iOS 블로그
+* [📍Learning Git](https://learngitbranching.js.org/?locale=ko) - Git 배우기 가장 좋은 사이트
+* [YongWoo Jeon님의 코드 리뷰](https://www.youtube.com/user/huhuyong/videos) - **코드 리뷰 방식**을 영상으로 제작하여 알기 쉽도록 도움줌
+
+***
+
 
 ### 🍏 Apple 
 * [WWDC students code challenge](https://github.com/wwdc) - 매년 개최 하는 WWDC의 특별한 세션으로 학생들이 도전했던 코드 챌린지를 엿볼수 있음, Source code + Youtube
@@ -74,15 +86,6 @@
 * [RxSwift를 이용한 MVVM 패턴](https://github.com/fimuxd/BringMyOwnBeer-) - 예제 프로젝트로 살펴보는 RxSwift MVVM 패턴
 * [iOS-Clean-Architecture-MVVM](https://github.com/justiceHui/Unknown-To-Wellknown) - iOS Clean Architecture MVVM
 
-
-***
-
-### 🚦 Git / 기술 블로그
-* [Git WorkFlow_우아한형제들_기술블로그](https://woowabros.github.io/experience/2017/10/30/baemin-mobile-git-branch-strategy.html) - 우아한 형제들의 Branch 관리 방법에 대해 배울 수 있음   
-* [LINE 기술 블로그](https://engineering.linecorp.com/ko/) - LINE 개발 기술 블로그
-    + [LINE iOS](https://engineering.linecorp.com/ko/blog/tag/ios-ko/) - LINE의 iOS 블로그
-* [📍Learning Git](https://learngitbranching.js.org/?locale=ko) - Git 배우기 가장 좋은 사이트
-* [YongWoo Jeon님의 코드 리뷰](https://www.youtube.com/user/huhuyong/videos) - **코드 리뷰 방식**을 영상으로 제작하여 알기 쉽도록 도움줌
 
 ***
 
